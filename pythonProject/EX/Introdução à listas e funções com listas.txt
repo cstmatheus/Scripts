@@ -1,0 +1,3 @@
+Introdução / Listas: https://panda.ime.usp.br/aulasPython/static/aulasPython/aula09.html
+
+  Funções com listas: https://panda.ime.usp.br/aulasPython/static/aulasPython/aula10.html
